@@ -5,7 +5,7 @@
     { "id": 3, "day": 3 }
   ],
   "words": [
-    { "id": 1, "day": 1, "eng": "Book", "kor": "책", "isDone": false },
+    { "id": 1, "day": 1, "eng": "Book", "kor": "책", "isDone": true },
     { "id": 2, "day": 1, "eng": "apple", "kor": "사과", "isDone": false },
     { "id": 3, "day": 2, "eng": "desk", "kor": "책상", "isDone": false },
     { "id": 4, "day": 2, "eng": "phone", "kor": "폰", "isDone": false },
