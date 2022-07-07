@@ -1,0 +1,15 @@
+{
+  "days": [
+    { "id": 1, "day": 1 },
+    { "id": 2, "day": 2 },
+    { "id": 3, "day": 3 }
+  ],
+  "words": [
+    { "id": 1, "day": 1, "eng": "Book", "kor": "책", "isDone": false },
+    { "id": 2, "day": 1, "eng": "apple", "kor": "사과", "isDone": false },
+    { "id": 3, "day": 2, "eng": "desk", "kor": "책상", "isDone": false },
+    { "id": 4, "day": 2, "eng": "phone", "kor": "폰", "isDone": false },
+    { "id": 5, "day": 3, "eng": "mouse", "kor": "마우스", "isDone": false },
+    { "id": 6, "day": 3, "eng": "note", "kor": "공책", "isDone": false }
+  ]
+}
