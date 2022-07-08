@@ -1,15 +1,96 @@
 {
   "days": [
-    { "id": 1, "day": 1 },
-    { "id": 2, "day": 2 },
-    { "id": 3, "day": 3 }
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    }
   ],
   "words": [
-    { "id": 1, "day": 1, "eng": "Book", "kor": "책", "isDone": true },
-    { "id": 2, "day": 1, "eng": "apple", "kor": "사과", "isDone": false },
-    { "id": 3, "day": 2, "eng": "desk", "kor": "책상", "isDone": false },
-    { "id": 4, "day": 2, "eng": "phone", "kor": "폰", "isDone": false },
-    { "id": 5, "day": 3, "eng": "mouse", "kor": "마우스", "isDone": false },
-    { "id": 6, "day": 3, "eng": "note", "kor": "공책", "isDone": false }
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "Book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "desk",
+      "kor": "책상",
+      "isDone": true
+    },
+    {
+      "id": 4,
+      "day": 2,
+      "eng": "phone",
+      "kor": "폰",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "mouse",
+      "kor": "마우스",
+      "isDone": false
+    },
+    {
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "day": "1",
+      "eng": "desk",
+      "kor": "책상",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "2",
+      "eng": "coffee",
+      "kor": "커피",
+      "isDone": true,
+      "id": 8
+    },
+    {
+      "day": "4",
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "2",
+      "eng": "watch",
+      "kor": "시계",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "5",
+      "eng": "radio",
+      "kor": "라디오",
+      "isDone": false,
+      "id": 11
+    }
   ]
 }

@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
-import { useEffect, useState } from "react";
+import useFetch from "../hooks/useFetch";
 
 export default function DayList() {
-  const [days, setDays] = useState([]);
+  const days = useFetch("http://localhost:3001/days");
 
-  useEffect(() => {
-    console.log("change");
-  });
+  if (days.length === 0) {
+    return <span>로딩 중입니다...😁</span>;
+  }
 
   return (
     <ul className="list_day">
